@@ -1,0 +1,128 @@
+{
+  "templates" : [
+   {
+  "templateId": "template-process-8ae5049d-f508-42be-a106-62e87a289198",
+  "processId": "process-8ae5049d-f508-42be-a106-62e87a289198",
+  "cloneOrg": "fptemplates",
+  "label": "FMCG Primary Sales Template",
+  "author": "Aseem Agarwal",
+  "authorCompanyName": "Asian Paints",
+  "position": "Product Head",
+  "companyLogo": "",
+  "authorDetails": "Asseem has been heading the IT division in Asian Paints for more than 10 years helping build and manage over 40 applications to streamline their field operations.",
+  "description": "This template is based upon similar processes implemented at  major Asian Paints. Asian Paints has used these apps to help their sales teams acheive 20% increase in visit operations",
+  "sheets": [
+    {
+      "label": "Customer Sheet",
+      "description": "This Sheet will capture all Customer Information"
+    },
+    {
+      "label": "Visit Details",
+      "description": "This Sheet will capture all Visit Details"
+    }
+  ],
+  "tasks": [
+    {
+      "label": "Add New Customer",
+      "description": ""
+    },
+    {
+      "label": "Visit Checkin",
+      "description": ""
+    },
+    {
+      "label": "Visit Check Out",
+      "description": ""
+    },
+    {
+      "label": "Merchandise",
+      "description": ""
+    },
+    {
+      "label": "Visit Checklist",
+      "description": ""
+    }
+  ],
+  "forms": [],
+  "imageSrc": ""
+},
+{
+  "templateId": "template-process-e0377d59-4011-467b-b3fa-0e4e8293942a",
+  "processId": "process-e0377d59-4011-467b-b3fa-0e4e8293942a",
+  "cloneOrg": "fptemplates",
+  "label": "Telecom - Attendance Management",
+  "description": "The attendance management app is being used in Vodafone to help them ensure their sales teams are on time in distributor locations, their daily targets are planned and they complete the mandatory working hours",
+  "author": "Harshada Wadare",
+  "authorCompanyName": "Vodafone Idea",
+  "position": "Sales Manager",
+  "companyLogo": "",
+  "authorDetails": "Harshada has 3 years of experience managing on ground teams in large organizations like Vodafone and Pepsico.",
+  "sheets": [
+    {
+      "label": "Attendance Sheet",
+      "description": "This Sheet will capture all Attendance  Information"
+    }
+  ],
+  "tasks": [
+    {
+      "label": "Check In",
+      "description": ""
+    },
+    {
+      "label": "Check Out",
+      "description": ""
+    }
+  ],
+  "forms": [],
+  "imageSrc": ""
+},
+{
+  "templateId": "template-process-48feac2f-5442-49f3-922d-bcf593e63a63",
+  "label": "Service Proxy",
+  "processId": "process-48feac2f-5442-49f3-922d-bcf593e63a63",
+  "cloneOrg": "fptemplates",
+  "description": "",
+  "author": "Nitin Shankar",
+  "authorCompanyName": "Gyany Customer Solutions",
+  "position": "Co-Founder",
+  "companyLogo": "",
+  "authorDetails": "",
+  "sheets": [],
+  "tasks": [],
+  "forms": [],
+  "imageSrc": ""
+},
+{
+  "templateId": "template-process-6578c111-e0de-43d7-b76a-3ca6853a168d",
+  "label": "Leave Management",
+  "processId": "process-6578c111-e0de-43d7-b76a-3ca6853a168d",
+  "cloneOrg": "fptemplates",
+  "description": "",
+  "author": "Swaroop Vijaykumar",
+  "authorCompanyName": "Fieldproxy Inc",
+  "position": "Co-Founder",
+  "companyLogo": "",
+  "authorDetails": "",
+  "sheets": [],
+  "tasks": [],
+  "forms": [],
+  "imageSrc": ""
+},
+{
+  "templateId": "template-process-d5a74ab9-6f17-4f95-8c11-0831d601570f",
+  "processId": "process-d5a74ab9-6f17-4f95-8c11-0831d601570f",
+  "cloneOrg": "fptemplates",
+  "label": "Expense Management",
+  "description": "",
+  "author": "Kilash J",
+  "authorCompanyName": "Fieldproxy Inc",
+  "position": "Marketing Head",
+  "companyLogo": "",
+  "authorDetails": "",
+  "sheets": [],
+  "tasks": [],
+  "forms": [],
+  "imageSrc": ""
+}
+  ]
+}
