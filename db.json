@@ -1,5 +1,5 @@
 {
-  "templates" : [
+  "templates" : {"data":[
    {
   "templateId": "template-process-8ae5049d-f508-42be-a106-62e87a289198",
   "processId": "process-8ae5049d-f508-42be-a106-62e87a289198",
@@ -124,5 +124,5 @@
   "forms": [],
   "imageSrc": ""
 }
-  ]
+  ]}
 }
