@@ -146,6 +146,38 @@
                
             ],
             "imageSrc":""
+         },
+         {
+            "templateId":"template-process-b77bcb0b-ee8e-49a6-a5e0-e7e78ea93431",
+            "processId":"process-b77bcb0b-ee8e-49a6-a5e0-e7e78ea93431",
+            "cloneOrg":"demomaster",
+            "label":"Add New Customer by Forms",
+            "author":"Nivetha V",
+            "authorCompanyName":"Fieldproxy",
+            "position":"Sales Ops",
+            "companyLogo":"",
+            "authorDetails":"",
+            "description":"This template is useful for the cliental where they can add the add new customer through the web portal using the Form ",
+            "sheets":[
+               {
+                  "label":"New Customers",
+                  "description":"This sheet contains the list of new Customers"
+               },
+               {
+                  "label":"Customer Visit sheeeet",
+                  "description":"This Sheet will capture all Visit Details"
+               }
+            ],
+            "tasks":[
+               
+            ],
+            "forms":[
+               {
+                 "label":"New Customer",
+                 "description":"This Form Lets you add customer through the portal"
+               }
+            ],
+            "imageSrc":""
          }
       ]
    }
